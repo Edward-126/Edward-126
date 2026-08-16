@@ -4,7 +4,7 @@
 
 <a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;
 
-<sub>But online, I go by Edward</sub>
+<sub>But online, I go by **Edward**.</sub>
 
 </div>
 
