@@ -4,7 +4,7 @@
 
 <a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;
 
-<sub>You'll see <code>edward-126</code> on the commits. Same person.</sub>
+<sub>But online, I go by Edward</sub>
 
 </div>
 
